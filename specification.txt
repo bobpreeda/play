@@ -1,0 +1,30 @@
+HTML tags
+1. body
+2. .container
+3. .header
+4. .section
+5. h1
+6. h2
+7. h3
+8. a
+9. feedback1
+10. feedback2
+
+CSS properties
+1.background-color
+2.color
+3.font-size
+4.font-weight
+5.line-height
+6.margin
+7.text-align:
+8.padding
+9.font-family
+10.text-decoration
+11.border:
+12.border-radius
+13.transition
+14.vertical-align
+15.width
+
+JavaScript is used on index.html page for the guess my age questions and horoscope generation and Bootstrap is used for Navbar js components.
