@@ -1,5 +1,5 @@
 name = "play-worker"
-compatibility_date = "2025-07-07"
+compatibility_date = "2025-07-08"
 
 [site]
 bucket = "./dist"
