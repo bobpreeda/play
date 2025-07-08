@@ -1,5 +1,4 @@
-name = "play-worker"
+name = "play-pages"
 compatibility_date = "2025-07-08"
 
-[site]
-bucket = "./dist"
+pages_build_output_dir = "./dist"
