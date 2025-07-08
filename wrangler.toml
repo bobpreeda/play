@@ -1,0 +1,5 @@
+name = "play-worker"
+compatibility_date = "2025-07-07"
+
+[site]
+bucket = "./dist"
