@@ -1,4 +1,5 @@
-name = "play-pages"
+name = "play"
 compatibility_date = "2025-07-08"
 
-pages_build_output_dir = "./public"
+[assets]
+directory = "./public"
